@@ -56,7 +56,7 @@ elif scelta_figura == 4:
         print("Hai scelto Triangolo!")
         base = int(input("inserire base del triangolo : "))
         altezza = int(input("inserire altezza del triangolo : "))
-        print("Il perimetro del Rettangolo e': ",  (base * altezza)/2)
+        print("Il perimetro del Triangolo e': ",  (base * altezza)/2)
 
 
 
